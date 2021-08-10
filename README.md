@@ -1,6 +1,6 @@
 # Apply-Naive-Bayes-on-Donors-Choose-dataset
 
-### Assignment 6: Apply NB on Donors Choose dataset.<br/>
+### Assignment: Apply NB on Donors Choose dataset.<br/>
 1. Apply Multinomial NB on these feature sets<br/>
 Set 1: categorical, numerical features + preprocessed_eassay (BOW)<br/>
 Set 2: categorical, numerical features + preprocessed_eassay (TFIDF)<br/>
